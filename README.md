@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Books every software engineer should read:
+- 📖 Society of the Spectacle -- Guy Debord
+- 📖 The Work of Art in the Age of Mechanical Reproduction -- Walter Benjamin
